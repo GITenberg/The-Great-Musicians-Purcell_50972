@@ -1,0 +1,30 @@
+_repo: The-Great-Musicians-Purcell_50972
+contributor:
+  creator:
+    editor:
+      agent_name: Hueffer, Francis
+      aliases:
+      - Hueffer, F. (Francis)
+      - Huffer, Franz
+      - Hüffer, Franz
+      - Hueffer, Franz
+      birthdate: 1843
+      deathdate: 1889
+      gutenberg_agent_id: '1326'
+      url: http://www.gutenberg.org/2009/agents/1326
+creator:
+  author:
+    agent_name: Cummings, William H.
+    gutenberg_agent_id: '46174'
+    url: http://www.gutenberg.org/2009/agents/46174
+description: ''
+gutenberg_issued: '2016-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50972'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Great Musicians: Purcell'
+url: http://www.gutenberg.org/ebooks/50972
