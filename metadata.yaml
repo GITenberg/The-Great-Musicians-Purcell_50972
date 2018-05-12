@@ -1,4 +1,5 @@
 _repo: The-Great-Musicians-Purcell_50972
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -12,12 +13,17 @@ contributor:
       deathdate: 1889
       gutenberg_agent_id: '1326'
       url: http://www.gutenberg.org/2009/agents/1326
+covers:
+- cover_type: archival
+  image_path: 50972-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Cummings, William H.
     gutenberg_agent_id: '46174'
     url: http://www.gutenberg.org/2009/agents/46174
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50972#The-Great-Musicians-Purcell
 gutenberg_issued: '2016-01-19'
 gutenberg_type: Text
 identifiers:
